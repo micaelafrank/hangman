@@ -11,3 +11,8 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.correctGuess{
+  opacity: 50%;
+  pointer-events: none;
+}
